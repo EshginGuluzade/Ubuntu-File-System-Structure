@@ -2,9 +2,9 @@
 
 Let’s explore what each folder in the Linux file system is for.
 
-`/` ---> This sign is known as “root”. It is the beginning of file system structure. Everything in Linux begins from the root.
+*`/` ---> This sign is known as “root”. It is the beginning of file system structure. Everything in Linux begins from the root.
 
-`/bin` ---> Important command binaries which need to be available in single-user mode. Typically, binary files can be for the Linux terminal commands such as cd, pwd, ls and so on (Don’t worry about these terminal commands, I will explain them in later videos).
+*`/bin` ---> Important command binaries which need to be available in single-user mode. Typically, binary files can be for the Linux terminal commands such as cd, pwd, ls and so on (Don’t worry about these terminal commands, I will explain them in later videos).
 
 /boot --- This folder contains all the needed files to boot the system.
 
