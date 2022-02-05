@@ -1,4 +1,4 @@
-# Ubuntu File System Structure
+# Ubuntu File System Structure Cheat Sheet
 
 Let’s explore what each folder in the Linux file system is for.
 
